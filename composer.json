@@ -1,5 +1,5 @@
 {
-    "name": "bellal-mohamed/laravel-phone",
+    "name": "bellal-mohamed/laravel-phone-validator",
     "description": "A phone validator for Laravel using the free Twilio phone lookup service.",
     "homepage": "https://github.com/BellalMohamed/laravel-phone",
     "license": "MIT",
